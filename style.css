@@ -103,7 +103,7 @@
 		margin-top:20px;
 	}
 	.navbar-default .navbar-nav > li > a {
-		color:#3df043;
+		color:#000000;
 		text-transform:uppercase;
 		font-weight:600;
 	}
@@ -112,7 +112,7 @@
 	.navbar-default .navbar-nav > li > a:focus,
 	.navbar-default .navbar-nav > li > a:active,
 	.navbar-default .navbar-nav > li > a.active {
-		color:#e72468;
+		color:#d42c2c;
 		border: 1px dashed;
 	}
 	.navbar-default .navbar-nav > .active > a, 
