@@ -169,7 +169,7 @@
 	
 	
 	.title h2 {
-		color:#ffffff;
+		color:#3C3B3B;
 		text-transform:uppercase;
 		font-weight:700;
 		font-size: 24px;
@@ -591,9 +591,17 @@
 		display: block;
 		padding: 50px 0 20px 0;
 		position: relative;
-		background-color: #000000;
+		background-color: #F7F7F7;
 	}
 	
+	.feature-wrapper1 {
+		z-index: 1;
+		display: block;
+		padding: 50px 0 20px 0;
+		position: relative;
+		background-color: #000000;
+	}
+		
 	.feature-img {
 		margin-bottom: -40px;
 	}
@@ -1049,7 +1057,7 @@
 	}
 	.service-box {
 		margin:40px 0;
-		color:#999999;
+		color:#474545;
 		padding:0;
 	}
 	
@@ -1539,7 +1547,7 @@
 		
 	.team-box {
 		margin: 40px 0 100px 0;
-		color:#999999;
+		color:#3d3c3c;
 		padding:0;
 		}
 	
